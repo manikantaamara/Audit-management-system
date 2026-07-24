@@ -116,9 +116,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Karthik Kunduru**
+**Amara Manikanta**
 
-- GitHub: https://github.com/kundurukarthik15-gif
+- GitHub: https://github.com/manikantaamara/Audit-management-system
 
 
 ---

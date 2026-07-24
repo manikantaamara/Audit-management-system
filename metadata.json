@@ -1,0 +1,6 @@
+{
+  "name": "Audit Information Management System (AIMS)",
+  "description": "A professional PSU and government organization style Audit management, planning, tracking, dispatch, and reports system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

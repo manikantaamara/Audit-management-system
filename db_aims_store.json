@@ -1,0 +1,1122 @@
+{
+  "DEPARTMENT_MASTER": [
+    {
+      "DEPT_ID": 101,
+      "DEPT_CODE": "PUR_ORM",
+      "DEPT_NAME": "Purchase (Other than Raw Materials)",
+      "HEAD_NAME": "Shri K. Somasekhar",
+      "CONTACT_NO": "7032115123",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 102,
+      "DEPT_CODE": "PUR_RM",
+      "DEPT_NAME": "Purchase (Raw Materials)",
+      "HEAD_NAME": "Shri P. Vasubabu",
+      "CONTACT_NO": "7032115124",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 103,
+      "DEPT_CODE": "AGRA_BSO",
+      "DEPT_NAME": "Agra BSO",
+      "HEAD_NAME": "Shri S.K. Sharma",
+      "CONTACT_NO": "0562-401231",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 104,
+      "DEPT_CODE": "BCG_MKTG",
+      "DEPT_NAME": "BC Gate Marketing",
+      "HEAD_NAME": "Smt. R. Priya",
+      "CONTACT_NO": "7032115125",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 105,
+      "DEPT_CODE": "COKE_OVENS",
+      "DEPT_NAME": "Coke Ovens Division",
+      "HEAD_NAME": "Shri M. Ravindra",
+      "CONTACT_NO": "7032115126",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 106,
+      "DEPT_CODE": "SMS_DEPT",
+      "DEPT_NAME": "Steel Melting Shop",
+      "HEAD_NAME": "Shri G. Srinivasa Murthy",
+      "CONTACT_NO": "7032115127",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 107,
+      "DEPT_CODE": "AUDIT_DIV",
+      "DEPT_NAME": "Internal Audit",
+      "HEAD_NAME": "Shri R.K. Murthy",
+      "CONTACT_NO": "7032115128",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 108,
+      "DEPT_CODE": "FIN_DIV",
+      "DEPT_NAME": "Finance & Accounts",
+      "HEAD_NAME": "Dr. N.V. Saiy",
+      "CONTACT_NO": "7032115129",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 109,
+      "DEPT_CODE": "BLAST_FRN",
+      "DEPT_NAME": "Blast Furnace Dept",
+      "HEAD_NAME": "Shri J.S. Rao",
+      "CONTACT_NO": "7032115130",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "DEPT_ID": 110,
+      "DEPT_CODE": "IRON_ST",
+      "DEPT_NAME": "Iron & Steel Making Div",
+      "HEAD_NAME": "Shri S.N. Singh",
+      "CONTACT_NO": "7032115140",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 111,
+      "DEPT_CODE": "LIME_CAL",
+      "DEPT_NAME": "Lime Calcination Plant",
+      "HEAD_NAME": "Shri B.K. Patra",
+      "CONTACT_NO": "7032115141",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 112,
+      "DEPT_CODE": "RO_MILLS",
+      "DEPT_NAME": "Rolling Mills Complex",
+      "HEAD_NAME": "Smt. S. Chatterjee",
+      "CONTACT_NO": "7032115142",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 113,
+      "DEPT_CODE": "MED_DIV_V",
+      "DEPT_NAME": "VSKP General Medical Division",
+      "HEAD_NAME": "Dr. G.S. Prasad",
+      "CONTACT_NO": "7552115201",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 114,
+      "DEPT_CODE": "CONT_PUR",
+      "DEPT_NAME": "Contracts & Purchase Sector",
+      "HEAD_NAME": "Shri Mukesh Patel",
+      "CONTACT_NO": "7032115143",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 115,
+      "DEPT_CODE": "POWER_PL",
+      "DEPT_NAME": "Captive Thermal Power Plant",
+      "HEAD_NAME": "Shri N. Narasimha",
+      "CONTACT_NO": "7032115144",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 116,
+      "DEPT_CODE": "MKT_CENT",
+      "DEPT_NAME": "Central Marketing Wing VSP",
+      "HEAD_NAME": "Shri Anil Kumar",
+      "CONTACT_NO": "7032115145",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 117,
+      "DEPT_CODE": "SAF_INSP",
+      "DEPT_NAME": "Corporate Safety & Inspection",
+      "HEAD_NAME": "Shri R.D. Rao",
+      "CONTACT_NO": "7032115146",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 118,
+      "DEPT_CODE": "HR_REGLOR",
+      "DEPT_NAME": "Human Resources & Establishments",
+      "HEAD_NAME": "Smt. Rekha Sharma",
+      "CONTACT_NO": "7032115147",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 119,
+      "DEPT_CODE": "LOGS_DISP",
+      "DEPT_NAME": "Logistics, Wagons & Rail Dispatch",
+      "HEAD_NAME": "Shri P.K. Mitra",
+      "CONTACT_NO": "7032115148",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    },
+    {
+      "DEPT_ID": 120,
+      "DEPT_CODE": "WAT_TREAT",
+      "DEPT_NAME": "Water Supply & Treatment Systems",
+      "HEAD_NAME": "Shri Anil Kapoor",
+      "CONTACT_NO": "7032115149",
+      "STATUS": "Active",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "DATABASE_RELATIONAL_REPAIR"
+    }
+  ],
+  "EMPLOYEE_MASTER": [
+    {
+      "EMP_ID": 401,
+      "EMP_NO": "EMP-11001",
+      "EMP_NAME": "Shri R.K. Murthy",
+      "EMAIL": "rk.murthy@vizagsteel.com",
+      "DEPT_CODE": "AUDIT_DIV",
+      "DESIGNATION": "General Manager (GM)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 402,
+      "EMP_NO": "EMP-22002",
+      "EMP_NAME": "Smt. P. Lakshmi",
+      "EMAIL": "p.lakshmi@vizagsteel.com",
+      "DEPT_CODE": "AUDIT_DIV",
+      "DESIGNATION": "Senior Manager (Audit)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 403,
+      "EMP_NO": "EMP-33003",
+      "EMP_NAME": "Dr. N.V. Saiy",
+      "EMAIL": "nv.saiy@vizagsteel.com",
+      "DEPT_CODE": "FIN_DIV",
+      "DESIGNATION": "DGM (F&A)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 404,
+      "EMP_NO": "EMP-44004",
+      "EMP_NAME": "Shri J.S. Rao",
+      "EMAIL": "js.rao@vizagsteel.com",
+      "DEPT_CODE": "BLAST_FRN",
+      "DESIGNATION": "HOD & GM (BF)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 405,
+      "EMP_NO": "EMP-55005",
+      "EMP_NAME": "Shri J.C. Bose",
+      "EMAIL": "jc.bose@vizagsteel.com",
+      "DEPT_CODE": "AUDIT_DIV",
+      "DESIGNATION": "Chief Audit Executive (CAE)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 406,
+      "EMP_NO": "EMP-66006",
+      "EMP_NAME": "Shri K. Somasekhar",
+      "EMAIL": "k.somasekhar@vizagsteel.com",
+      "DEPT_CODE": "PUR_ORM",
+      "DESIGNATION": "DGM (Purchase)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 410,
+      "EMP_NO": "EMP-11200",
+      "EMP_NAME": "Shri S.N. Singh",
+      "EMAIL": "sn.singh@vizagsteel.com",
+      "DEPT_CODE": "IRON_ST",
+      "DESIGNATION": "CGM (Iron & Steel)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 411,
+      "EMP_NO": "EMP-11300",
+      "EMP_NAME": "Shri B.K. Patra",
+      "EMAIL": "bk.patra@vizagsteel.com",
+      "DEPT_CODE": "LIME_CAL",
+      "DESIGNATION": "GM (Calcination)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 412,
+      "EMP_NO": "EMP-11400",
+      "EMP_NAME": "Smt. S. Chatterjee",
+      "EMAIL": "s.chatter@vizagsteel.com",
+      "DEPT_CODE": "RO_MILLS",
+      "DESIGNATION": "DGM (Rolling)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 413,
+      "EMP_NO": "EMP-11500",
+      "EMP_NAME": "Dr. G.S. Prasad",
+      "EMAIL": "gs.prasad@vizagsteel.com",
+      "DEPT_CODE": "MED_DIV_V",
+      "DESIGNATION": "Chief Medical Officer",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 414,
+      "EMP_NO": "EMP-11600",
+      "EMP_NAME": "Shri Mukesh Patel",
+      "EMAIL": "mukesh.p@vizagsteel.com",
+      "DEPT_CODE": "CONT_PUR",
+      "DESIGNATION": "DGM (Contracts)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 415,
+      "EMP_NO": "EMP-11700",
+      "EMP_NAME": "Shri N. Narasimha",
+      "EMAIL": "n.narasimha@vizagsteel.com",
+      "DEPT_CODE": "POWER_PL",
+      "DESIGNATION": "AGM (Thermal)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 416,
+      "EMP_NO": "EMP-11800",
+      "EMP_NAME": "Shri Anil Kumar",
+      "EMAIL": "anil.k@vizagsteel.com",
+      "DEPT_CODE": "MKT_CENT",
+      "DESIGNATION": "Manager (Sales)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 417,
+      "EMP_NO": "EMP-11900",
+      "EMP_NAME": "Shri R.D. Rao",
+      "EMAIL": "rd.rao@vizagsteel.com",
+      "DEPT_CODE": "SAF_INSP",
+      "DESIGNATION": "GM (Safety Ops)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 418,
+      "EMP_NO": "EMP-12000",
+      "EMP_NAME": "Smt. Karuna Devi",
+      "EMAIL": "karuna.d@vizagsteel.com",
+      "DEPT_CODE": "IRON_ST",
+      "DESIGNATION": "Senior Engineer",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 419,
+      "EMP_NO": "EMP-12100",
+      "EMP_NAME": "Shri Sunil Ganguly",
+      "EMAIL": "suganguly@vizagsteel.com",
+      "DEPT_CODE": "RO_MILLS",
+      "DESIGNATION": "Assistant Manager",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 420,
+      "EMP_NO": "EMP-12200",
+      "EMP_NAME": "Smt. Meera Sen",
+      "EMAIL": "meera.sen@vizagsteel.com",
+      "DEPT_CODE": "HR_REGLOR",
+      "DESIGNATION": "DGM (HR)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 421,
+      "EMP_NO": "EMP-12300",
+      "EMP_NAME": "Shri Rajesh Pilot",
+      "EMAIL": "r.pilot@vizagsteel.com",
+      "DEPT_CODE": "LOGS_DISP",
+      "DESIGNATION": "Senior Traffic Superintendent",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "EMP_ID": 422,
+      "EMP_NO": "EMP-12400",
+      "EMP_NAME": "Shri Anil Kapoor",
+      "EMAIL": "akapoor@vizagsteel.com",
+      "DEPT_CODE": "WAT_TREAT",
+      "DESIGNATION": "DGM (Water & Effluents)",
+      "IS_ACTIVE": "Y",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    }
+  ],
+  "AUDIT_PROGRAM_MASTER": [
+    {
+      "PROG_ID": 301,
+      "PROG_CODE": "PR_PUR_01",
+      "PROG_NAME": "Review of Risk Purchase Contracts & Vendor Claims",
+      "SCOPE_OF_AUDIT": "Critical audit covering Risk purchase executions under section M13. Evaluation of timelines, penalty calculations, vendor lists, quality testing reports and pending counter-justifications.",
+      "APPLICABLE_GUIDELINES": "RINL Corporate Purchase Manual 2024, Govt GFR Guidelines",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "PROG_ID": 302,
+      "PROG_CODE": "PR_BF_02",
+      "PROG_NAME": "Audit of Coke Charging Efficiency and Fuel Consumption",
+      "SCOPE_OF_AUDIT": "Verification of Coke Oven and Blast Furnace charging measurements, moisture contents, efficiency, variance analysis vs standards and recovery logs.",
+      "APPLICABLE_GUIDELINES": "Steel Production Quality Manual Section 4A",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "PROG_ID": 303,
+      "PROG_CODE": "PR_FIN_03",
+      "PROG_NAME": "Internal Capital Expenditure Verification and Asset Depreciation",
+      "SCOPE_OF_AUDIT": "Comprehensive review of Capital expenditures, WIP ledger, asset capitalization certificates, scrap disposal logs and depreciation rates.",
+      "APPLICABLE_GUIDELINES": "Accounting Standard AS-10, VSP Financial Guidelines",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "PROG_ID": 304,
+      "PROG_CODE": "PR_SAF_04",
+      "PROG_NAME": "Corporate Environmental Clearance & Emission Limits Inspection",
+      "SCOPE_OF_AUDIT": "Coverage of compliance indicators, air and water effluents emission rates vs state board limits, thermal cooling efficiency, carbon credits.",
+      "APPLICABLE_GUIDELINES": "Ministry of Environment Clearance Act 2021, NCG Standard B4",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "PROG_ID": 305,
+      "PROG_CODE": "PR_HR_05",
+      "PROG_NAME": "Audit of Shift Incentives and Contractual Labor Payroll Disbursements",
+      "SCOPE_OF_AUDIT": "Review of shift rosters, overtime slips, electronic ticket punching registers vs disbursements allocated in Oracle HCM.",
+      "APPLICABLE_GUIDELINES": "Govt Wages Code of Code Act, RINL HR Manual Part C",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    },
+    {
+      "PROG_ID": 306,
+      "PROG_CODE": "PR_LOG_06",
+      "PROG_NAME": "Inspection of Wagon Demurrage Charges & Demurrage Accruals",
+      "SCOPE_OF_AUDIT": "Critical audit covering demurrage levied by East Coast Railway on finished billets dispatch lines. Evaluation of dispatch delay reasons, wagon loading bottlenecks.",
+      "APPLICABLE_GUIDELINES": "Indian Railways Freight Allocation Rules Chapter XII",
+      "CREATION_DATE": "2026-05-29",
+      "CREATED_BY": "SYSTEM"
+    }
+  ],
+  "USER_MASTER": [
+    {
+      "USER_ID": 1,
+      "USER_NAME": "1001",
+      "PASSWORD_HASH": "admin-key",
+      "ROLE_CODE": "Admin",
+      "FULL_NAME": "Shri R.K. Murthy",
+      "DEPT_CODE": "AUDIT_DIV",
+      "DESIGNATION": "General Manager (GM)"
+    },
+    {
+      "USER_ID": 2,
+      "USER_NAME": "2002",
+      "PASSWORD_HASH": "auditor-key",
+      "ROLE_CODE": "Auditor",
+      "FULL_NAME": "Smt. P. Lakshmi",
+      "DEPT_CODE": "AUDIT_DIV",
+      "DESIGNATION": "Senior Manager (Audit)"
+    },
+    {
+      "USER_ID": 3,
+      "USER_NAME": "3003",
+      "PASSWORD_HASH": "hod-key",
+      "ROLE_CODE": "HOD",
+      "FULL_NAME": "Dr. N.V. Saiy",
+      "DEPT_CODE": "FIN_DIV",
+      "DESIGNATION": "DGM (F&A)"
+    },
+    {
+      "USER_ID": 4,
+      "USER_NAME": "4004",
+      "PASSWORD_HASH": "hod-key",
+      "ROLE_CODE": "HOD",
+      "FULL_NAME": "Shri J.S. Rao",
+      "DEPT_CODE": "BLAST_FRN",
+      "DESIGNATION": "HOD & GM (BF)"
+    },
+    {
+      "USER_ID": 5,
+      "USER_NAME": "5005",
+      "PASSWORD_HASH": "reviewer-key",
+      "ROLE_CODE": "Reviewer",
+      "FULL_NAME": "Shri J.C. Bose",
+      "DEPT_CODE": "AUDIT_DIV",
+      "DESIGNATION": "Chief Audit Executive (CAE)"
+    }
+  ],
+  "ROLE_MASTER": [
+    {
+      "ROLE_CODE": "Admin",
+      "ROLE_NAME": "System Administrator (DBA)",
+      "DESCRIPTION": "Full master setup, code directory maintenance, security logging configuration, and global overrides."
+    },
+    {
+      "ROLE_CODE": "Auditor",
+      "ROLE_NAME": "Field/Internal Auditor",
+      "DESCRIPTION": "Create audit plans, draft reports, declare outstanding paras, dispatch DAK files and evaluate replies."
+    },
+    {
+      "ROLE_CODE": "HOD",
+      "ROLE_NAME": "Department Head / Exec Recipient",
+      "DESCRIPTION": "Register official replies to observations, delegate paras to executive personnel, mark corrective action files."
+    },
+    {
+      "ROLE_CODE": "Reviewer",
+      "ROLE_NAME": "Advisory Review Board",
+      "DESCRIPTION": "Review outstanding queries, approve settling actions, authorize settlements, write high level final remarks."
+    }
+  ],
+  "STATUS_MASTER": [
+    {
+      "STATUS_CODE": "Draft",
+      "STATUS_NAME": "Draft Schedule/Document",
+      "DISPLAY_COLOR": "#f1f5f9"
+    },
+    {
+      "STATUS_CODE": "Submitted",
+      "STATUS_NAME": "Submitted for check",
+      "DISPLAY_COLOR": "#e0f2fe"
+    },
+    {
+      "STATUS_CODE": "Approved",
+      "STATUS_NAME": "Approved by Administrator",
+      "DISPLAY_COLOR": "#dcfce7"
+    },
+    {
+      "STATUS_CODE": "Outstanding",
+      "STATUS_NAME": "Outstanding Query",
+      "DISPLAY_COLOR": "#fee2e2"
+    },
+    {
+      "STATUS_CODE": "Under Review",
+      "STATUS_NAME": "Counter reply under review",
+      "DISPLAY_COLOR": "#fef9c3"
+    },
+    {
+      "STATUS_CODE": "Settled",
+      "STATUS_NAME": "Officially Settled Para",
+      "DISPLAY_COLOR": "#dcfce7"
+    },
+    {
+      "STATUS_CODE": "Resolved",
+      "STATUS_NAME": "Mutually Resolved Block",
+      "DISPLAY_COLOR": "#bbf7d0"
+    }
+  ],
+  "AUDIT_PLANNING": [
+    {
+      "PLAN_ID": "PLN-2026-601",
+      "TITLE": "Audit on Risk Purchase Executions & Procurement Delays",
+      "FINANCIAL_YEAR": "2026-27",
+      "AUDIT_TYPE": "Regular",
+      "DEPT_CODE": "PUR_ORM",
+      "PLANNED_MONTHS": "April, May",
+      "TEAM_LEAD": "Smt. P. Lakshmi",
+      "START_DATE": "2026-04-01",
+      "END_DATE": "2026-05-15",
+      "TOUR_PROPOSAL_URL": "https://vsp-audit.gov.internal/tours/PLAN_601.pdf",
+      "STATUS": "Executed",
+      "CREATION_DATE": "2026-05-29"
+    },
+    {
+      "PLAN_ID": "PLN-2026-602",
+      "TITLE": "Performance Audit of Blast Furnace fuel distribution logs",
+      "FINANCIAL_YEAR": "2026-27",
+      "AUDIT_TYPE": "Special",
+      "DEPT_CODE": "BLAST_FRN",
+      "PLANNED_MONTHS": "June, July",
+      "TEAM_LEAD": "Shri J.C. Bose",
+      "START_DATE": "2026-06-01",
+      "END_DATE": "2026-07-20",
+      "TOUR_PROPOSAL_URL": "",
+      "STATUS": "Approved",
+      "CREATION_DATE": "2026-05-29"
+    },
+    {
+      "PLAN_ID": "PLN-2026-603",
+      "TITLE": "Statutory Verification of Capital Ledger & Spares",
+      "FINANCIAL_YEAR": "2025-26",
+      "AUDIT_TYPE": "Statutory",
+      "DEPT_CODE": "FIN_DIV",
+      "PLANNED_MONTHS": "March",
+      "TEAM_LEAD": "Smt. P. Lakshmi",
+      "START_DATE": "2026-03-05",
+      "END_DATE": "2026-03-31",
+      "TOUR_PROPOSAL_URL": "https://vsp-audit.gov.internal/tours/PLAN_603.pdf",
+      "STATUS": "Executed",
+      "CREATION_DATE": "2026-05-29"
+    },
+    {
+      "PLAN_ID": "PLN-2026-610",
+      "TITLE": "Evaluation of Oxygen Injection Speed & Furnace Refractory Scans",
+      "FINANCIAL_YEAR": "2026-27",
+      "AUDIT_TYPE": "Special",
+      "DEPT_CODE": "IRON_ST",
+      "PLANNED_MONTHS": "February, March",
+      "TEAM_LEAD": "Smt. P. Lakshmi",
+      "START_DATE": "2426-02-10",
+      "END_DATE": "2026-03-25",
+      "TOUR_PROPOSAL_URL": "",
+      "STATUS": "Executed",
+      "CREATION_DATE": "2026-05-29"
+    },
+    {
+      "PLAN_ID": "PLN-2026-611",
+      "TITLE": "Safety Review of Captive Thermal Plant High Pressure Boilers",
+      "FINANCIAL_YEAR": "2026-27",
+      "AUDIT_TYPE": "Regular",
+      "DEPT_CODE": "POWER_PL",
+      "PLANNED_MONTHS": "August, September",
+      "TEAM_LEAD": "Shri J.C. Bose",
+      "START_DATE": "2026-08-01",
+      "END_DATE": "2026-09-15",
+      "TOUR_PROPOSAL_URL": "",
+      "STATUS": "Approved",
+      "CREATION_DATE": "2026-05-29"
+    },
+    {
+      "PLAN_ID": "PLN-2026-612",
+      "TITLE": "Performance audit on Finished Billets Distribution & Sales Billing logs",
+      "FINANCIAL_YEAR": "2026-27",
+      "AUDIT_TYPE": "Regular",
+      "DEPT_CODE": "MKT_CENT",
+      "PLANNED_MONTHS": "October",
+      "TEAM_LEAD": "Smt. P. Lakshmi",
+      "START_DATE": "2026-10-01",
+      "END_DATE": "2026-10-31",
+      "TOUR_PROPOSAL_URL": "",
+      "STATUS": "Draft",
+      "CREATION_DATE": "2026-05-29"
+    },
+    {
+      "PLAN_ID": "PLN-2026-613",
+      "TITLE": "Compliance Audit of Scrap Metal Salvage Contracts",
+      "FINANCIAL_YEAR": "2026-27",
+      "AUDIT_TYPE": "Statutory",
+      "DEPT_CODE": "CONT_PUR",
+      "PLANNED_MONTHS": "December",
+      "TEAM_LEAD": "Smt. P. Lakshmi",
+      "START_DATE": "2026-12-05",
+      "END_DATE": "2027-01-10",
+      "TOUR_PROPOSAL_URL": "",
+      "STATUS": "Approved",
+      "CREATION_DATE": "2026-05-29"
+    },
+    {
+      "PLAN_ID": "PLN-2026-614",
+      "TITLE": "Audit of Shift Incentives and Contractual Labor Roll",
+      "FINANCIAL_YEAR": "2026-27",
+      "AUDIT_TYPE": "Regular",
+      "DEPT_CODE": "HR_REGLOR",
+      "PLANNED_MONTHS": "November",
+      "TEAM_LEAD": "Shri J.C. Bose",
+      "START_DATE": "2026-11-01",
+      "END_DATE": "2026-11-30",
+      "TOUR_PROPOSAL_URL": "",
+      "STATUS": "Draft",
+      "CREATION_DATE": "2026-05-29"
+    },
+    {
+      "PLAN_ID": "PLN-2026-615",
+      "TITLE": "Inspection of Wagon Demurrage Charges & Loading Bottlenecks",
+      "FINANCIAL_YEAR": "2025-26",
+      "AUDIT_TYPE": "Regular",
+      "DEPT_CODE": "LOGS_DISP",
+      "PLANNED_MONTHS": "January, February",
+      "TEAM_LEAD": "Smt. P. Lakshmi",
+      "START_DATE": "2026-01-05",
+      "END_DATE": "2526-02-28",
+      "TOUR_PROPOSAL_URL": "",
+      "STATUS": "Executed",
+      "CREATION_DATE": "2026-05-29"
+    }
+  ],
+  "AUDIT_REPORTS_ENTRY": [
+    {
+      "REPORT_ID": "REP-2026-701",
+      "PLAN_ID": "PLN-2026-601",
+      "REPORT_NO": "RINL/AUD/M13/2026/04",
+      "TITLE": "Critical Procurement Audit Report: Raw materials risk claims",
+      "AUDIT_PERIOD_FROM": "2026-04-01",
+      "AUDIT_PERIOD_TO": "2026-05-15",
+      "LEAD_AUDITOR": "Smt. P. Lakshmi",
+      "DEPT_CODE": "PUR_ORM",
+      "DATE_CREATED": "2026-05-29",
+      "DATE_SUBMITTED": "2026-05-29",
+      "STATUS": "Authorized",
+      "PARAS_COUNT": 4,
+      "ATTACHMENT_NAME": "authorized_raw_purchase_report.pdf",
+      "attachmentName": "rinl"
+    },
+    {
+      "REPORT_ID": "REP-2026-702",
+      "PLAN_ID": "PLN-2026-602",
+      "REPORT_NO": "RINL/AUD/BF/2026/09",
+      "TITLE": "Coke Charging Efficiency Audit Report",
+      "AUDIT_PERIOD_FROM": "2026-06-01",
+      "AUDIT_PERIOD_TO": "2026-06-15",
+      "LEAD_AUDITOR": "Shri J.C. Bose",
+      "DEPT_CODE": "BLAST_FRN",
+      "DATE_CREATED": "2026-05-29",
+      "DATE_SUBMITTED": "",
+      "STATUS": "Draft",
+      "PARAS_COUNT": 1,
+      "ATTACHMENT_NAME": "",
+      "attachmentName": "RINL_AUD_BF_2026_09_QuickSigned.jpg"
+    },
+    {
+      "REPORT_ID": "REP-2026-710",
+      "PLAN_ID": "PLN-2026-610",
+      "REPORT_NO": "RINL/AUD/IRON/2026/18",
+      "TITLE": "Oxygen Injection Variance & Refractory Safety Scan report",
+      "AUDIT_PERIOD_FROM": "2026-02-10",
+      "AUDIT_PERIOD_TO": "2026-03-25",
+      "LEAD_AUDITOR": "Smt. P. Lakshmi",
+      "DEPT_CODE": "IRON_ST",
+      "DATE_CREATED": "2026-05-29",
+      "DATE_SUBMITTED": "2026-05-29",
+      "STATUS": "Authorized",
+      "PARAS_COUNT": 3,
+      "ATTACHMENT_NAME": "vsp_oxygen_refractory_rep.pdf"
+    },
+    {
+      "REPORT_ID": "REP-2026-711",
+      "PLAN_ID": "PLN-2026-611",
+      "REPORT_NO": "RINL/AUD/PWR/2026/04",
+      "TITLE": "Boiler Integrity High-Level Inspection Report",
+      "AUDIT_PERIOD_FROM": "2026-08-01",
+      "AUDIT_PERIOD_TO": "2026-08-20",
+      "LEAD_AUDITOR": "Shri J.C. Bose",
+      "DEPT_CODE": "POWER_PL",
+      "DATE_CREATED": "2026-05-29",
+      "DATE_SUBMITTED": "",
+      "STATUS": "Draft",
+      "PARAS_COUNT": 1,
+      "ATTACHMENT_NAME": ""
+    },
+    {
+      "REPORT_ID": "REP-2026-712",
+      "PLAN_ID": "PLN-2026-615",
+      "REPORT_NO": "RINL/AUD/WAG/2026/01",
+      "TITLE": "Critical Wagon Outward Billing Operations & Demurrage Audits",
+      "AUDIT_PERIOD_FROM": "2026-01-05",
+      "AUDIT_PERIOD_TO": "2026-02-20",
+      "LEAD_AUDITOR": "Smt. P. Lakshmi",
+      "DEPT_CODE": "LOGS_DISP",
+      "DATE_CREATED": "2026-05-29",
+      "DATE_SUBMITTED": "2026-05-29",
+      "STATUS": "Authorized",
+      "PARAS_COUNT": 2,
+      "ATTACHMENT_NAME": "outward_demurrage_v1.pdf"
+    }
+  ],
+  "REPLY_ENTRY": [
+    {
+      "REPLY_ID": "RE-901",
+      "DEPT_CODE": "PUR_ORM",
+      "AUDIT_PERIOD_FROM": "2026-04-01",
+      "AUDIT_PERIOD_TO": "2026-05-15",
+      "IOM_FROM": "HOD (Purchase)",
+      "IOM_TO": "GM (Internal Audit)",
+      "REF_NO": "RINL/PUR/AUD-REP/2026/14",
+      "COPY_TO": "ED (Works), GM (Finance)",
+      "IOM_DATE": "2026-05-29",
+      "CREATION_DATE": "2026-05-29T08:38:50.380Z"
+    },
+    {
+      "REPLY_ID": "RE-902",
+      "DEPT_CODE": "PUR_RM",
+      "AUDIT_PERIOD_FROM": "2026-04-01",
+      "AUDIT_PERIOD_TO": "2026-05-15",
+      "IOM_FROM": "ED (Raw Materials)",
+      "IOM_TO": "GM (Internal Audit)",
+      "REF_NO": "RINL/RM/AUD-REP/2026/78",
+      "COPY_TO": "ED (Works)",
+      "IOM_DATE": "2026-05-29",
+      "CREATION_DATE": "2026-05-29T08:38:50.380Z"
+    },
+    {
+      "REPLY_ID": "RE-910",
+      "DEPT_CODE": "IRON_ST",
+      "AUDIT_PERIOD_FROM": "2026-02-10",
+      "AUDIT_PERIOD_TO": "2026-03-25",
+      "IOM_FROM": "HOD (Iron & Steel)",
+      "IOM_TO": "GM (Internal Audit)",
+      "REF_NO": "RINL/IRON/AUD-REP/2026/01",
+      "COPY_TO": "CGM (Works), DGM (Safety)",
+      "IOM_DATE": "2026-05-29",
+      "CREATION_DATE": "2026-05-29T09:11:08.612Z"
+    },
+    {
+      "REPLY_ID": "RE-911",
+      "DEPT_CODE": "LOGS_DISP",
+      "AUDIT_PERIOD_FROM": "2026-01-05",
+      "AUDIT_PERIOD_TO": "2026-02-20",
+      "IOM_FROM": "GM (Logistics)",
+      "IOM_TO": "GM (Internal Audit)",
+      "REF_NO": "RINL/LOG/AUD-REP/2026/12",
+      "COPY_TO": "ED (Material Management)",
+      "IOM_DATE": "2026-05-29",
+      "CREATION_DATE": "2026-05-29T09:11:08.612Z"
+    }
+  ],
+  "DISPATCH": [
+    {
+      "DISPATCH_ID": "DSP-25001",
+      "DISPATCH_NO": "VSP/AUD/DISP/2026/101",
+      "DISPATCH_DATE": "2026-05-29",
+      "SUBJECT": "Dispatch of signed slag purchase inspection notes",
+      "SENDER_DEPT": "Internal Audit",
+      "RECEIVER_DEPT": "Purchase (Other than Raw Materials)",
+      "DAK_NO": "DK-2026-5251",
+      "MEDIUM": "Intranet Email",
+      "STATUS": "Acknowledged"
+    },
+    {
+      "DISPATCH_ID": "DSP-25002",
+      "DISPATCH_NO": "VSP/AUD/DISP/2026/102",
+      "DISPATCH_DATE": "2026-05-29",
+      "SUBJECT": "Quality Complaint lockouts register",
+      "SENDER_DEPT": "Internal Audit",
+      "RECEIVER_DEPT": "Purchase (Other than Raw Materials)",
+      "DAK_NO": "DK-2026-5252",
+      "MEDIUM": "Hand Delivered",
+      "STATUS": "Acknowledged"
+    },
+    {
+      "DISPATCH_ID": "DSP-25100",
+      "DISPATCH_NO": "VSP/AUD/DISP/2026/301",
+      "DISPATCH_DATE": "2026-05-29",
+      "SUBJECT": "Dispatch of oxygen injection critical audit findings",
+      "SENDER_DEPT": "Internal Audit",
+      "RECEIVER_DEPT": "Iron & Steel Making Div",
+      "DAK_NO": "DK-2026-5301",
+      "MEDIUM": "Intranet Email",
+      "STATUS": "Dispatched"
+    },
+    {
+      "DISPATCH_ID": "DSP-25101",
+      "DISPATCH_NO": "VSP/AUD/DISP/2026/302",
+      "DISPATCH_DATE": "2026-05-29",
+      "SUBJECT": "Wagon billing demurrage warning notice",
+      "SENDER_DEPT": "Internal Audit",
+      "RECEIVER_DEPT": "Logistics, Wagons & Rail Dispatch",
+      "DAK_NO": "DK-2026-5305",
+      "MEDIUM": "Hand Delivered",
+      "STATUS": "Acknowledged"
+    }
+  ],
+  "AUDIT_PARAS": [
+    {
+      "PARA_ID": "PR-801",
+      "REPORT_ID": "REP-2026-701",
+      "PARA_NO": "Para-1.1",
+      "TITLE": "OBSERVATION REGARDING RISK PURCHASE CASES (M13)",
+      "CATEGORY": "Critical",
+      "DESCRIPTION": "Serious delays detected inside the risk purchase claims register. Material suppliers failed to carry out the delivery schedules for key slag chemicals. Outstanding claims worth ₹42.8 Lakh remain un-recouped due to missing counter notices from the HOD purchase sector.",
+      "FINANCIAL_IMPLICATION": 4280000,
+      "STATUS": "Outstanding",
+      "REPLY_CONTENT": "Drafting explanation of standard force majeure reasons for selected vendors. Response memo being aligned with GM MM.",
+      "MARKED_EMP_ID": "401",
+      "DAK_NO": "DK-2026-5251"
+    },
+    {
+      "PARA_ID": "PR-802",
+      "REPORT_ID": "REP-2026-701",
+      "PARA_NO": "Para-1.2",
+      "TITLE": "Observation on Non-blocking of Vendors due to Quality Complaints",
+      "CATEGORY": "Major",
+      "DESCRIPTION": "Identified three vendors delivering defective iron components. Despite central QMS raising quality reject logs, the vendors were not flagged in the ERP and received further tenders against core PSU allocation protocols.",
+      "FINANCIAL_IMPLICATION": 1850000,
+      "STATUS": "Under Review",
+      "REPLY_CONTENT": "Vendors have now been officially locked out in the Oracle ERP master registry as of 25th May 2026. Action compliance scan submitted.",
+      "MARKED_EMP_ID": "406",
+      "DAK_NO": "DK-2026-5252"
+    },
+    {
+      "PARA_ID": "PR-803",
+      "REPORT_ID": "REP-2026-701",
+      "PARA_NO": "Para-1.3",
+      "TITLE": "NON RESOLUTION OF QUALITY COMPLAINTS",
+      "CATEGORY": "Critical",
+      "DESCRIPTION": "Outstanding counter-justifications regarding sub-standard ore batches have did not reach the central legal division for 150 days. This has resulted in exposure to loss without appropriate security guarantees.",
+      "FINANCIAL_IMPLICATION": 3100000,
+      "STATUS": "Outstanding",
+      "REPLY_CONTENT": "",
+      "MARKED_EMP_ID": "406",
+      "DAK_NO": "DK-2026-5253"
+    },
+    {
+      "PARA_ID": "PR-804",
+      "REPORT_ID": "REP-2026-701",
+      "PARA_NO": "Para-1.4",
+      "TITLE": "DELAY IN SUPPLIES IN CASE OF RISK PURCHASE ITEMS",
+      "CATEGORY": "Minor",
+      "DESCRIPTION": "Minor logistical lags in raw lime shipping schedules. Implication resolved through internal surplus buffer transfer.",
+      "FINANCIAL_IMPLICATION": 350000,
+      "STATUS": "Settled",
+      "REPLY_CONTENT": "Compliance resolved. Lime logs adjusted and reconciled.",
+      "MARKED_EMP_ID": "406",
+      "DAK_NO": "DK-2026-5254"
+    },
+    {
+      "PARA_ID": "PR-850",
+      "REPORT_ID": "REP-2026-710",
+      "PARA_NO": "Para-1.1",
+      "TITLE": "EXCESS OXYGEN CONSUMPTION RECORDINGS IN FURNACE-B",
+      "CATEGORY": "Critical",
+      "DESCRIPTION": "Oxygen rates tracked in primary oxygen lance nozzle B exceeded the safe thermal standard parameters by 18.4% during slag tapping intervals. Over-oxidation has induced early refractory jacket degradation risks and cost overruns.",
+      "FINANCIAL_IMPLICATION": 5400000,
+      "STATUS": "Outstanding",
+      "REPLY_CONTENT": "Drafting explanation of standard force majeure reasons. Furnace lance B nozzle recalibrated on May 15th.",
+      "MARKED_EMP_ID": "410",
+      "DAK_NO": "DK-2026-5301"
+    },
+    {
+      "PARA_ID": "PR-851",
+      "REPORT_ID": "REP-2026-710",
+      "PARA_NO": "Para-1.2",
+      "TITLE": "NON-MAINTENANCE OF INTRUSION SCANNERS FOR SPOUT SEGMENT",
+      "CATEGORY": "Major",
+      "DESCRIPTION": "Central automated spout cameras were found offline during five major high-heat charges. Replaced by manual physical verification which is non-compliant with standard corporate safety directive 14B.",
+      "FINANCIAL_IMPLICATION": 1200000,
+      "STATUS": "Under Review",
+      "REPLY_CONTENT": "Spout camera segment fixed. Live visual feeds redirected to GMT control room.",
+      "MARKED_EMP_ID": "410",
+      "DAK_NO": "DK-2026-5302"
+    },
+    {
+      "PARA_ID": "PR-852",
+      "REPORT_ID": "REP-2026-710",
+      "PARA_NO": "Para-1.3",
+      "TITLE": "DISCREPANCY IN REFRACTORY BRICK ALLOCATION FOR SLAG WELL",
+      "CATEGORY": "Critical",
+      "DESCRIPTION": "Discrepancy of 1450 Units of high-heat premium silicon refractory bricks detected in the inventory store vs material charge slips. Materials remain unaccounted for without proper dispatch notes.",
+      "FINANCIAL_IMPLICATION": 1580000,
+      "STATUS": "Outstanding",
+      "REPLY_CONTENT": "",
+      "MARKED_EMP_ID": "410",
+      "DAK_NO": "DK-2026-5303"
+    },
+    {
+      "PARA_ID": "PR-853",
+      "REPORT_ID": "REP-2026-711",
+      "PARA_NO": "Para-1.1",
+      "TITLE": "ABSENCE OF CERTIFIED NDT THICKNESS SCANS FOR REHEATER PIPING",
+      "CATEGORY": "Major",
+      "DESCRIPTION": "No thickness certificate logged for Reheater block HP-4 lines since January 2025. Boiler safety rules dictate mandatory NDT thickness ultrasound mapping every 12 months.",
+      "FINANCIAL_IMPLICATION": 3200000,
+      "STATUS": "Outstanding",
+      "REPLY_CONTENT": "",
+      "MARKED_EMP_ID": "415",
+      "DAK_NO": "DK-2026-5304"
+    },
+    {
+      "PARA_ID": "PR-854",
+      "REPORT_ID": "REP-2026-712",
+      "PARA_NO": "Para-1.1",
+      "TITLE": "EXCESS RAILWAY DEMURRAGE CHARGES ACCRUED AT DESPATCH SLIP-III",
+      "CATEGORY": "Critical",
+      "DESCRIPTION": "Railway demurrage claims worth ₹78.4 Lakh levied on steel billets dispatch section-III due to lagging crane mobilization speed and local shunting blockages.",
+      "FINANCIAL_IMPLICATION": 7840000,
+      "STATUS": "Outstanding",
+      "REPLY_CONTENT": "",
+      "MARKED_EMP_ID": "421",
+      "DAK_NO": "DK-2026-5305"
+    },
+    {
+      "PARA_ID": "PR-855",
+      "REPORT_ID": "REP-2026-712",
+      "PARA_NO": "Para-1.2",
+      "TITLE": "UNRECONCILED WEIGHT BRIDGE VARIATIONS",
+      "CATEGORY": "Minor",
+      "DESCRIPTION": "Discrepancy of 1.4% in freight bill weight metrics vs electronic weighbridge measures.",
+      "FINANCIAL_IMPLICATION": 450000,
+      "STATUS": "Settled",
+      "REPLY_CONTENT": "Weight bridge recalibrated. Recoup metrics matched.",
+      "MARKED_EMP_ID": "421",
+      "DAK_NO": "DK-2026-5306"
+    }
+  ],
+  "REVIEW_TRACKING": [
+    {
+      "REVIEW_ID": "REV-001",
+      "PARA_ID": "PR-802",
+      "REVIEWER_ID": "5005",
+      "COMMENTS": "Verified security lockouts are officially toggled in the system configuration. The documentation is satisfactory and approved.",
+      "ACTION_TAKEN": "Lockout active in system",
+      "STATUS_ASSIGNED": "Settled",
+      "REVIEW_DATE": "2026-05-29T08:38:50.380Z"
+    },
+    {
+      "REVIEW_ID": "REV-010",
+      "PARA_ID": "PR-851",
+      "REVIEWER_ID": "5005",
+      "COMMENTS": "Verified spout camera feeds have been rerouted successfully. Satisfactory compliance established and checked.",
+      "ACTION_TAKEN": "Camera live stream checked",
+      "STATUS_ASSIGNED": "Settled",
+      "REVIEW_DATE": "2026-05-29T09:11:08.612Z"
+    }
+  ],
+  "UPLOAD_REPORTS": [
+    {
+      "UPLOAD_ID": "UPL-001",
+      "REPORT_ID": "REP-2026-701",
+      "FILE_NAME": "authorized_raw_purchase_report.pdf",
+      "FILE_TYPE": "application/pdf",
+      "FILE_SIZE": 1240180,
+      "FILE_DATA_BLOB": "JVBERi0xLjQKJSDi48PXNTQg...[MOCK BASE64 ENCRYPTED FILE DATA]...",
+      "UPLOADED_BY": "2002",
+      "UPLOAD_DATE": "2026-05-29"
+    },
+    {
+      "UPLOAD_ID": "UPL-010",
+      "REPORT_ID": "REP-2026-710",
+      "FILE_NAME": "vsp_oxygen_refractory_rep.pdf",
+      "FILE_TYPE": "application/pdf",
+      "FILE_SIZE": 3450210,
+      "FILE_DATA_BLOB": "JVBERi0xLjQKJSDi48...[MOCK BASE64 DETAILED PDF CONTENT]...",
+      "UPLOADED_BY": "2002",
+      "UPLOAD_DATE": "2026-05-29"
+    }
+  ],
+  "ACTIVITY_LOGS": [
+    {
+      "LOG_ID": "LOG-774062",
+      "TIMESTAMP": "2026-05-29T09:11:08.612Z",
+      "USERNAME": "AIMS_AUTOMATION_AGENT",
+      "ROLE": "Admin",
+      "ACTION": "Relational master dataset imported successfully. Populated indices: 14 sheets, 14 tables, 147 new records written. Ref integrity check passed.",
+      "IP_ADDRESS": "127.0.0.1"
+    },
+    {
+      "LOG_ID": "LOG-421356",
+      "TIMESTAMP": "2026-05-29T08:59:53.551Z",
+      "USERNAME": "1001",
+      "ROLE": "Admin",
+      "ACTION": "User session started successfully for Shri R.K. Murthy",
+      "IP_ADDRESS": "10.210.45.18"
+    },
+    {
+      "LOG_ID": "LOG-754914",
+      "TIMESTAMP": "2026-05-29T08:45:29.345Z",
+      "USERNAME": "2002",
+      "ROLE": "Auditor",
+      "ACTION": "User session started successfully for Smt. P. Lakshmi",
+      "IP_ADDRESS": "10.210.45.18"
+    },
+    {
+      "LOG_ID": "LOG-958007",
+      "TIMESTAMP": "2026-05-29T08:39:08.055Z",
+      "USERNAME": "1001",
+      "ROLE": "Admin",
+      "ACTION": "User session started successfully for Shri R.K. Murthy",
+      "IP_ADDRESS": "10.210.45.18"
+    },
+    {
+      "LOG_ID": "LOG-30001",
+      "TIMESTAMP": "2026-05-29T08:38:50.380Z",
+      "USERNAME": "1001",
+      "ROLE": "Admin",
+      "ACTION": "Oracle AIMS Database Engine initialized successfully.",
+      "IP_ADDRESS": "10.210.45.18"
+    }
+  ],
+  "knowledgeDocsList": [
+    {
+      "id": "KD-201",
+      "title": "RINL Corporate Purchase Manual 2024 Revision B",
+      "docType": "Circular",
+      "releaseDate": "2024-01-15",
+      "referenceNo": "VSP/PUR/MAN-24",
+      "fileSize": "4.8 MB"
+    },
+    {
+      "id": "KD-202",
+      "title": "Audit Scope of Special slag purchase accounts",
+      "docType": "Guideline",
+      "releaseDate": "2025-09-12",
+      "referenceNo": "RINL/IA/GUIDE-5",
+      "fileSize": "1.2 MB"
+    },
+    {
+      "id": "KD-203",
+      "title": "VSP Financial Delegation of Authority Limits (DoA)",
+      "docType": "Policy",
+      "releaseDate": "2023-11-20",
+      "referenceNo": "VSP/FIN/POL/09",
+      "fileSize": "8.5 MB"
+    }
+  ]
+}
